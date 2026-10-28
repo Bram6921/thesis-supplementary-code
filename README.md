@@ -1,6 +1,6 @@
 # Thesis supplementary code
 
-ImageJ/Fiji macros and the geometric vibratome-section model used for an MSc thesis. This repository contains analysis code only. It does not contain microscopy images, measurement tables, sample identifiers, or laboratory credentials.
+ImageJ/Fiji macros and the geometric vibratome-section model used for my MSc thesis. This repository contains analysis code only.
 
 The interactive explorer is the same program as [Bram6921/Vibratome_sections](https://github.com/Bram6921/Vibratome_sections). The figure script below is included here because it is the script that generated the thesis figure.
 
