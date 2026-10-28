@@ -114,6 +114,6 @@ From `geometric_model`, after the packages above are installed:
 python make_parameter_sweep_geometric_model_final.py
 ```
 
-The script imports `geometry.py` and `app.py` in this folder. It writes CSV, JSON, PNG, and PDF files to `geometric_model/output/`. The figure file is `output/parameter_sweep_geometric_model_V6.pdf`. The run computes several orientation and curvature sweeps on a 128×128 grid, so it can take a while.
+The script imports `geometry.py` and `app.py` in this folder. It writes CSV, JSON, PNG, and PDF files to `geometric_model/output/`. The run computes several orientation and curvature sweeps on a 128×128 grid, so it can take a while.
 
 Those outputs are generated files and are not stored in this repository.
